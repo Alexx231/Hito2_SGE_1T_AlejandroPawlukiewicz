@@ -1,0 +1,19 @@
+# Base de Python
+python>=3.8
+
+# Interfaz gráfica
+tkinter>=8.6
+
+# Base de datos
+mysql-connector-python>=8.0.26
+
+# Análisis de datos y visualización
+pandas>=1.3.0
+matplotlib>=3.4.3
+seaborn>=0.11.2
+
+# Exportación a Excel
+openpyxl>=3.0.7
+
+# Formateo de fechas
+python-dateutil>=2.8.2
